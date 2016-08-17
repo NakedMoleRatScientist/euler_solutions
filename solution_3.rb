@@ -7,4 +7,5 @@ def trial_divison number
       list.push(n)
     end
   end
+  list
 end
